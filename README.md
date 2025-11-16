@@ -8,6 +8,7 @@ I'm a passionate Full-Stack Developer with over 7 years of experience in buildin
 ## 🎯 Bio
 
 🔭 I’m currently working on Full Stack Development.
+<br>
 👯 I’m looking to collaborate on Django and MERN Stack (MongoDB, Express, React and Node).
 
 ## 🛠️ Tech Stack
