@@ -47,17 +47,14 @@ I'm a passionate Full-Stack Developer with over 7 years of experience in buildin
 </div>
 
 ---
-
-<div align="center">
-
-<hr>
+<br>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=mehedi008h&theme=juicyfresh&no-bg=true" />
 <br><br>
 </div>
 <hr>
 <div align="center">
-
+<br>
     Top Technologies
     <br><br>
 
