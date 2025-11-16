@@ -66,7 +66,4 @@ I'm a passionate Full-Stack Developer with over 7 years of experience in buildin
 <br>
 <!-- Most used languages -->
 
-#### Most used languages
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi008h&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/></p>
-<hr>
