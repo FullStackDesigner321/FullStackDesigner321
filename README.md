@@ -51,7 +51,6 @@ I'm a passionate Full-Stack Developer with over 7 years of experience in buildin
 <div align="center">
 
 <hr>
-<br>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=mehedi008h&theme=juicyfresh&no-bg=true" />
 <br><br>
@@ -59,8 +58,6 @@ I'm a passionate Full-Stack Developer with over 7 years of experience in buildin
 <hr>
 <div align="center">
 
-
-<br>
     Top Technologies
     <br><br>
 
@@ -80,16 +77,3 @@ I'm a passionate Full-Stack Developer with over 7 years of experience in buildin
   
 
 ```
-
-## 📣 Let's Connect
-
-  <p>Open for collaborations on AI, healthcare, and educational technology projects!</p>
-  <a href="mailto:hello@smaranjitghose.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://calendly.com/booksmaran"><img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule Meeting"/></a>
-</div>
-
-
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blueviolet" alt="Profile views"/>
-  <p>"The best way to predict the future is to invent it." – Alan Kay</p>
-</div>
