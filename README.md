@@ -5,6 +5,10 @@
 
 I'm a passionate Full-Stack Developer with over 7 years of experience in building dynamic, user-friendly web applications. I specialize in React, Vue.js, Node.js, and Spring Boot, with proficiency in both front-end and back-end technologies. I excel in creating scalable, high-performance solutions using MongoDB, MySQL, and PostgreSQL. I’m committed to writing clean, maintainable code, optimizing performance, and delivering products that exceed expectations. Always eager to learn and collaborate to solve real-world challenges.
 
+###🎯 Bio
+🔭 I’m currently working on Full Stack Development.
+👯 I’m looking to collaborate on Django and MERN Stack (MongoDB, Express, React and Node).
+
 ## 🛠️ Tech Stack
 
 <div align="center">
