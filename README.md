@@ -128,7 +128,57 @@ I'm a passionate Full-Stack Developer with over 7 years of experience in buildin
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-5A45FF?style=for-the-badge&logo=ollama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-5A45FF?style=for-the-badge&logo=ollama&logoColor=white
+
+## ✨ Beautiful Badges
+
+Showcase examples — swap usernames/URLs to your real projects and services.
+
+- Build / CI:  
+  [![CI](https://img.shields.io/github/actions/workflow/status/FullStackDesigner321/ProjectName/ci.yml?branch=main&label=CI&logo=github)](https://github.com/FullStackDesigner321/ProjectName/actions)
+- Repo Stars / Forks:  
+  [![Stars](https://img.shields.io/github/stars/FullStackDesigner321/ProjectName?style=social)](https://github.com/FullStackDesigner321/ProjectName/stargazers)
+- Top Languages:  
+  [![Top Langs](https://img.shields.io/github/languages/top/FullStackDesigner321/ProjectName?color=orange)](https://github.com/FullStackDesigner321/ProjectName)
+- Latest Commit:  
+  [![Last Commit](https://img.shields.io/github/last-commit/FullStackDesigner321/ProjectName?label=last%20commit)](https://github.com/FullStackDesigner321/ProjectName/commits)
+- License:  
+  [![License](https://img.shields.io/github/license/FullStackDesigner321/ProjectName)](https://github.com/FullStackDesigner321/ProjectName/blob/main/LICENSE)
+- GitHub Readme Stats (dynamic):  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FullStackDesigner321&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullStackDesigner321&layout=compact&theme=tokyonight)
+
+(Replace ProjectName with each repo you want badges for. If you want, I can generate badge links for specific repos you list.)
+
+---
+
+## 🗺️ Activity Diagram
+
+Below is an activity diagram (Mermaid) that describes my typical project workflow — planning through iteration. Paste this into a README rendered with Mermaid support (GitHub shows mermaid in many contexts) or export it to SVG for static embedding.
+
+```mermaid
+flowchart LR
+  A[Plan & Research] --> B[Design & Prototype]
+  B --> C[Implement (Frontend & Backend)]
+  C --> D[Modeling / AI Integration]
+  D --> E[Test & QA]
+  E --> F[CI / CD → Deploy]
+  F --> G[Monitor & Observability]
+  G --> H[Feedback & Metrics]
+  H --> I[Iterate & Improve]
+  I --> A
+  subgraph "DevOps"
+    F
+    G
+  end
+  subgraph "Product"
+    A
+    B
+    H
+  end
+```
+
+Caption: Plan → Design → Implement → Integrate AI → Test → Deploy → Monitor → Improve (loop).
 
 </div>
 
