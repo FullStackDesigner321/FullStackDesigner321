@@ -7,8 +7,8 @@
 🚀 **Senior Full-Stack & AI Developer** with 7+ years of experience building cutting-edge solutions across web and AI decentralized applications.
 
 ## 🚀 About Me
-
-I'm a passionate Full-Stack Developer with over 7 years of experience in building dynamic, user-friendly web applications. I specialize in React, Vue.js, Node.js, and Spring Boot, with proficiency in both front-end and back-end technologies. I excel in creating scalable, high-performance solutions using MongoDB, MySQL, and PostgreSQL. I’m committed to writing clean, maintainable code, optimizing performance, and delivering products that exceed expectations. Always eager to learn and collaborate to solve real-world challenges.
+**Senior Full-Stack & AI Developer** with 7+ years of experience building cutting-edge solutions across web and AI decentralized applications.
+Full-Stack & AI Developer skilled in React, Node, TypeScript, and modern backend systems. I build fast, scalable applications and integrate AI for automation, chatbots, and smart data processing. I focus on clean architecture, responsive UI, and delivering polished, efficient digital products.
 
 ## 🎯 Bio
 
