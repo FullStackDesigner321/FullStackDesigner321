@@ -7,9 +7,11 @@ I'm a passionate Full-Stack Developer with over 7 years of experience in buildin
 
 ## 🎯 Bio
 
-🔭 I’m currently working on Full Stack Development.
-<br>
-👯 I’m looking to collaborate on Django and MERN Stack (MongoDB, Express, React and Node).
+-   🏢 I'm currently working at **Bolstar**
+-   ⚙️ I use daily: `.ts`, `.js`, `.java`
+-   🌍 I'm mostly active within the **Javascript Community**
+-   🌱 Learning all about **DevOps**
+-   💬 Ping me about **React.js**, **Node.js**, **Express.js**, **Next.js**, **Nest.js**, **Spring Boot**, **RestAPIs**
 
 ## 🛠️ Tech Stack
 
@@ -78,4 +80,6 @@ I'm a passionate Full-Stack Developer with over 7 years of experience in buildin
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi008h&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/></p>
 <hr>
+
+<p><img src="./1.svg" alt="ovi"/></p>
 
