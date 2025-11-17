@@ -95,85 +95,72 @@ I'm a passionate Full-Stack Developer with over 7 years of experience in buildin
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Mojo](https://img.shields.io/badge/Mojo-FF6F00?style=for-the-badge&logo=mojo&logoColor=white)
+## 🚀 Tech Stack & Badges
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### DevSecOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-5A45FF?style=for-the-badge&logo=ollama&logoColor=white
-
-# FullStackDesigner321
-[![Status](https://img.shields.io/badge/status-actively_building-brightgreen)](https://github.com/FullStackDesigner321)
-[![GitHub followers](https://img.shields.io/github/followers/FullStackDesigner321?label=Follow&style=social)](https://github.com/FullStackDesigner321?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/FullStackDesigner321?style=social)](https://twitter.com/FullStackDesigner321)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/FullStackDesigner321)
-[![Email](https://img.shields.io/badge/Email-you@domain.com-red?logo=gmail)](mailto:you@domain.com)
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=FullStackDesigner321.FullStackDesigner321)](https://github.com/FullStackDesigner321)
-
-## 🛠️ Tech Snapshot
-
-- Frontend: React, Next.js, TypeScript, Tailwind
-- Backend: Node.js, NestJS, GraphQL, PostgreSQL
-- AI / ML: Python, PyTorch, Hugging Face, LangChain, OpenAI APIs
-- Infra: Docker, Kubernetes, Terraform
-- DevTools: GitHub Actions, Jest, Cypress
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NextJS-000?logo=next.js&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazon-aws&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-f9a825?logo=huggingface&logoColor=fff&style=for-the-badge" />
+</p>
 
 ---
 
-## 🔭 Featured Projects
-(Examples — replace with your real repos & metrics)
+## 📈 My GitHub Activity
 
-- ProjectName — AI-powered assistant (Next.js, NestJS, PyTorch) — https://github.com/FullStackDesigner321/ProjectName
-- DesignSystem — Component library (React, TypeScript, Storybook) — https://github.com/FullStackDesigner321/DesignSystem
-- ml-pipeline — Reproducible training (Docker, MLflow) — https://github.com/FullStackDesigner321/ml-pipeline
+<!-- GitHub Readme Activity Graph -->
+[![FullStackDesigner321's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FullStackDesigner321&bg_color=0d1117&color=90caf9&line=eab308&point=f472b6&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📬 Contact & Links
-- Email: you@domain.com
-- Twitter: https://twitter.com/FullStackDesigner321
-- LinkedIn: https://linkedin.com/in/FullStackDesigner321
-- Resume / Portfolio: https://your-site.example/resume.pdf
+## 📊 Contribution and Language Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FullStackDesigner321&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FullStackDesigner321&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
 ---
 
-If you'd like, I can:
-- generate repository-specific badges for each of your repos (send repo list), or
-- export the Mermaid activity diagram as an SVG and embed it directly in the README with a permalink.
+## 🗺️ Decorated Activity Line Chart
 
+> **Development workflow illustrated at a glance!**
 
-#### Most used languages
+```mermaid
+%% Modern, colored, emoji-enhanced line chart of dev workflow
+%% Paste in mermaid.live for richer rendering!
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi008h&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/></p>
-<hr>
+%% This is a "journey" chart for beautiful lines, milestones, and coloring
 
-<p><img src="./1.svg" alt="ovi"/></p>
+journey
+    title FullStackDeveloper: Project Life Cycle
+    section Ideation
+      Plan & Research  : 5: 👨‍💻
+      Brainstorm Ideas : 4: 🧠
+    section Design
+      UX/UI Design     : 5: 🎨
+      Prototype        : 4: 🛠
+    section Implementation
+      Frontend Dev     : 5: ⚛️
+      Backend Dev      : 5: 🏗
+      Integrate AI     : 4: 🤖
+    section Verification
+      Testing/QA       : 5: ✅
+      Code Review      : 4: 👀
+    section Deployment & Feedback
+      CI/CD Deploy     : 5: 🚀
+      Monitor & Alert  : 4: 📊
+      Feedback Cycle   : 5: 🔁
+```
+
+---
 
