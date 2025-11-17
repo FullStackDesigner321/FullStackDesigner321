@@ -130,6 +130,26 @@ I'm a passionate Full-Stack Developer with over 7 years of experience in buildin
 ![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-5A45FF?style=for-the-badge&logo=ollama&logoColor=white
 
+# FullStackDesigner321
+[![Status](https://img.shields.io/badge/status-actively_building-brightgreen)](https://github.com/FullStackDesigner321)
+[![GitHub followers](https://img.shields.io/github/followers/FullStackDesigner321?label=Follow&style=social)](https://github.com/FullStackDesigner321?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/FullStackDesigner321?style=social)](https://twitter.com/FullStackDesigner321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/FullStackDesigner321)
+[![Email](https://img.shields.io/badge/Email-you@domain.com-red?logo=gmail)](mailto:you@domain.com)
+[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=FullStackDesigner321.FullStackDesigner321)](https://github.com/FullStackDesigner321)
+
+Hi — I'm FullStackDesigner321 👋  
+Full Stack & AI developer since 2018. I design delightful user experiences and build reliable, scalable AI-driven products.
+
+---
+
+- 🔭 Current: Building [ProjectName](https://github.com/FullStackDesigner321/ProjectName) — a modern AI-driven web app
+- 🌱 Learning: Advanced MLOps, LLM Agents, and RAG systems
+- 💬 Ask me about: React, Node.js, Python, PyTorch, prompt engineering
+- ⚡ Fun: UI sketches, design systems, automation scripts
+
+---
+
 ## ✨ Beautiful Badges
 
 Showcase examples — swap usernames/URLs to your real projects and services.
@@ -180,28 +200,38 @@ flowchart LR
 
 Caption: Plan → Design → Implement → Integrate AI → Test → Deploy → Monitor → Improve (loop).
 
-</div>
+---
+
+## 🛠️ Tech Snapshot
+
+- Frontend: React, Next.js, TypeScript, Tailwind
+- Backend: Node.js, NestJS, GraphQL, PostgreSQL
+- AI / ML: Python, PyTorch, Hugging Face, LangChain, OpenAI APIs
+- Infra: Docker, Kubernetes, Terraform
+- DevTools: GitHub Actions, Jest, Cypress
 
 ---
-<br>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=mehedi008h&theme=juicyfresh&no-bg=true" />
-<br><br>
-</div>
-<hr>
-<div align="center">
-<br>
-    Top Technologies
-    <br><br>
 
-<!-- TODO: Make technologies links takes you to repositories -->
+## 🔭 Featured Projects
+(Examples — replace with your real repos & metrics)
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-007acc?style=for-the-badge&labelColor=black&logo=PostgreSQL&logoColor=007acc)](#)
+- ProjectName — AI-powered assistant (Next.js, NestJS, PyTorch) — https://github.com/FullStackDesigner321/ProjectName
+- DesignSystem — Component library (React, TypeScript, Storybook) — https://github.com/FullStackDesigner321/DesignSystem
+- ml-pipeline — Reproducible training (Docker, MLflow) — https://github.com/FullStackDesigner321/ml-pipeline
 
-</div>
-<br>
-<!-- Most used languages -->
+---
 
+## 📬 Contact & Links
+- Email: you@domain.com
+- Twitter: https://twitter.com/FullStackDesigner321
+- LinkedIn: https://linkedin.com/in/FullStackDesigner321
+- Resume / Portfolio: https://your-site.example/resume.pdf
+
+---
+
+If you'd like, I can:
+- generate repository-specific badges for each of your repos (send repo list), or
+- export the Mermaid activity diagram as an SVG and embed it directly in the README with a permalink.
 
 
 #### Most used languages
