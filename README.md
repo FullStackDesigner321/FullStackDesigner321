@@ -11,7 +11,6 @@ Full-Stack & AI Developer skilled in React, Node, TypeScript, and modern backend
 
 ## 🎯 Bio
 
--   🏢 I'm currently working at **Bolstar**
 -   ⚙️ I use daily: `.ts`, `.js`, `.java`
 -   🌍 I'm mostly active within the **Javascript Community**
 -   🌱 Learning all about **DevOps**
