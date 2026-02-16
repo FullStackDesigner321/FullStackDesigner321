@@ -9,12 +9,6 @@
 **Senior Full-Stack & AI Developer** with 7+ years of experience building cutting-edge solutions across web and AI decentralized applications.
 Full-Stack & AI Developer skilled in React, Node, TypeScript, and modern backend systems. I build fast, scalable applications and integrate AI for automation, chatbots, and smart data processing. I focus on clean architecture, responsive UI, and delivering polished, efficient digital products.
 
-## 🎯 Bio
-
--   ⚙️ I use daily: `.ts`, `.js`, `.java`
--   🌍 I'm mostly active within the **Javascript Community**
--   🌱 Learning all about **DevOps**
--   💬 Ping me about **React.js**, **Node.js**, **Express.js**, **Next.js**, **Nest.js**, **Spring Boot**, **RestAPIs**
 
 ## ⚡ My Skills
 <br />
